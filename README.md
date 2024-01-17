@@ -16,5 +16,4 @@ Complete the following notebooks located in the notebooks/ directory.
 
 + nb-1.0-jupyter.ipynb
 + nb-1.1-bash-genomes.ipynb
-+ nb-1.2-genome-databases.ipynb
 
